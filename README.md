@@ -1,11 +1,6 @@
 # Consumer Insights using Social Media Analysis (Industry Project)
- 
-
-
-
-
-
-
+![Image of Word Cloud] 
+(https://github.com/AashwinS05/Industry-Projects---Consumer-Insights-/blob/master/Screen%20Shot%202020-08-31%20at%209.56.12%20PM.png)
 
 ## Goal / Task
 Tasked with preparing a  one-page analysis/report on the Team USA Summer Champions Series ñ Track & Field  Championships.  
