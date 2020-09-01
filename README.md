@@ -1,5 +1,12 @@
 # Consumer Insights using Social Media Analysis (Industry Project)
  
+
+
+
+
+
+
+
 ## Goal / Task
 Tasked with preparing a  one-page analysis/report on the Team USA Summer Champions Series ñ Track & Field  Championships.  
 
